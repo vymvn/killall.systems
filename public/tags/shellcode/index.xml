@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shellcode on killall.systems</title>
+    <link>http://localhost:1313/tags/shellcode/</link>
+    <description>Recent content in Shellcode on killall.systems</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Mar 2023 11:51:26 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shellcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple 64-bit buffer overflow with shellcode</title>
+      <link>http://localhost:1313/stack5/</link>
+      <pubDate>Fri, 03 Mar 2023 11:51:26 +0800</pubDate>
+      <guid>http://localhost:1313/stack5/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Buffer overflow is a common vulnerability that has plagued software systems for years. It occurs when a program attempts to store data beyond the bounds of a buffer, causing the extra data to overwrite adjacent memory locations. This can lead to a variety of problems, including crashes, security breaches, and even the execution of malicious code. One of the most powerful ways to exploit a buffer overflow is by injecting shellcode into the overflowed buffer, which allows an attacker to take control of the program and execute arbitrary commands. In this blog post, we will explore the basics of buffer overflow attacks and demonstrate how to execute shellcode by solving Stack 5 from &lt;a href=&#34;https://exploit.education/phoenix/&#34;&gt;Pheonix&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
