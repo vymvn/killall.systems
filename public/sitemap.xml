@@ -2,30 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-18T13:34:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/binary-exploitation/</loc>
-    <lastmod>2023-03-03T11:51:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/buffer-overflow/</loc>
-    <lastmod>2023-03-03T11:51:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pwn/</loc>
-    <lastmod>2023-03-03T11:51:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/shellcode/</loc>
-    <lastmod>2023-03-03T11:51:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stack5/</loc>
-    <lastmod>2023-03-03T11:51:26+08:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-03-03T11:51:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2022-08-25T21:30:04+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
