@@ -2,3 +2,7 @@ baseURL = 'https://killall.systems/'
 languageCode = 'en-us'
 title = 'killall.systems'
 theme = 'nostyleplease'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
