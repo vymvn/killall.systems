@@ -2,6 +2,13 @@
 date = '2025-05-25T17:49:13+04:00'
 draft = false
 title = 'Encrypting Shellcode to Evade Simple Blacklists'
+toc: true
+tocBorder: true
+tags:
+    - shellcode
+    - exploit-development
+    - encryption
+    - evasion
 +++
 
 # Intro
