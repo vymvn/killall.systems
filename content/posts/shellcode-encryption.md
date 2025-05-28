@@ -5,10 +5,10 @@ title = 'Encrypting Shellcode to Evade Simple Blacklists'
 toc: true
 tocBorder: true
 tags:
-    - shellcode
-    - exploit-development
-    - encryption
-    - evasion
+  - shellcode
+  - exploit-development
+  - encryption
+  - evasion
 +++
 
 # Intro
